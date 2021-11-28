@@ -35,8 +35,10 @@ header {
   min-height: 50px; /* altura mínima */
   flex-wrap: wrap;  /* força a quebra de linhas entre elementos flex */
 }
+
 #img-logo {
   background-color: transparent;
+  justify-content: center;
 }
 #menu-principal {
   display: flex;
@@ -76,10 +78,15 @@ header {
 }
 
 /* nav #social */
+#social{
+  justify-content: right;
+}
+
 #social ul {
   list-style: none;
   display: flex;
   margin: 20px;
+  align-content: left;
 }
 
 #social ul li a {
@@ -93,7 +100,7 @@ header {
 
 #social ul li a img {
   width: 40px;
-  filter: brightness(0.225);
+
 }
 
 #social ul li a span {
@@ -146,7 +153,7 @@ section > h1 { /* O sinal de > indica que serão atingidos apenas
   text-align: left;
   width: 100%;
   color: var(--cor-fundo);
-  font-family: var(--fonte-titulo);
+  /*font-family: var(--fonte-titulo);*/
   font-style: italic;
   font-size: 2rem;
   text-shadow: -1px -1px 1px rgba(255, 255, 255, 0.4);
@@ -156,9 +163,10 @@ section > article > h1 {
   text-align: right;
   width: 100%;
   color: var(--cor-texto);
-  font-family: var(--fonte-titulo);
+  /*font-family: var(--fonte-titulo);*/
   font-size: 1.5rem;
 }
+
 
 /* Regra para os títulos h1 que estão dentro dos articles */
 article > h1 {
@@ -282,6 +290,7 @@ article {
 .pagina-interna figure img {
   width: 100%;
   max-width: 800px;
+  border-style: groove;
 }
 
 .pagina-interna figure figcaption {
@@ -294,7 +303,7 @@ article {
 }
 
 .pagina-interna p {
-  text-align: left;
+  text-align: center;
   margin-bottom: 12px;
   line-height: 1.2;
   width: 100%;
@@ -305,7 +314,7 @@ article {
   text-align: left;
   width: 100%;
   color: var(--cor-fundo);
-  font-family: var(--fonte-titulo);
+  
   font-style: italic;
   font-size: 1.5rem;
   text-shadow: -1px -1px 1px rgba(255, 255, 255, 0.4);
@@ -320,15 +329,38 @@ article {
 }
 
 .pagina-interna a {
-  color: var(--cor-prim-clara);
+  text-align: left;
+  margin-bottom: 12px;
+  line-height: 1.2;
+  width: 100%;
+  font-size: 1.2rem;
+}
+
+.pagina-interna form{
+  text-align: center;
+  margin-bottom: 12px;
+  padding: 20px;
+  width: 100%;
+}
+
+.pagina-interna form button {
+  background-color: var(--cor-prim-clara);
+  border: none;
+  border-radius: 10px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
   text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  
 }
 
-.pagina-interna a:hover {
-  color: var(--cor-prim);
-  text-decoration: underline;
+.pagina-interna ul{
+  font-family: var(--fonte-titulo);
+  color: var(--cor-texto);
+  text-align: left; 
 }
-
 
 /**************************************************
              REGRAS DE RESPONSIVIDADE
