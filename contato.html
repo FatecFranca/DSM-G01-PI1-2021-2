@@ -64,55 +64,38 @@
       </div>
     </nav>
   </header>
-  <main class="pagina-interna">
+  <main class="pagina-contato">
     <!-- main (área principal de conteúdo) -->
     <section>
       <article>
         
-        <h2>Iron Maiden -The Number of the Beast</h2>
+        <form action="http://formmail.kinghost.net/formmail.cgi" method="POST"> 
 
-        <figure>
-          <img src="img/Produtos/iron maiden.jpg" alt="Brasília 1982">
-          <figcaption>
-            Capa do Album The Number of The Beast Iron Maiden
-          </figcaption>
-        </figure>
-
-        <p>The Number of the Beast é o terceiro álbum de estúdio da banda britânica de heavy metal Iron Maiden. Foi lançado em Março de 1982 pela EMI e Capitol Records. The Number of the Beast marcou a estreia do novo vocalista Bruce Dickinson, que entrou para o lugar de Paul Di'Anno, e foi o último álbum com o baterista Clive Burr.</p>
-
-        <p>Este album contem as seguintes músicas:</p>
-
-        <ul>
-          <li>
-            <a>Invaders</a>
-          </li>
-          <li>
-            <a>Children of the Damned</a>
-          </li>
-          <li>
-            <a>The Prisoner</a>
-          </li>
-          <li>
-            <a>22 Acacia Avenue</a>
-          </li>
-          <li>
-            <a>The Number of the Beast</a>
-          </li>
-          <li>
-            <a>Run to the Hills</a>
-          </li>
-          <li>
-            <a>Gangland</a>
-          </li>
-          <li>
-            <a>Hallowed Be Thy Name</a>
-          </li>
-        </ul>
-
-        <form>
-          <button type="submit">Comprar</button>
-        </form>
-
+            <h2>Caso queira se comunicar conosco, por favor deixe um comentário</h2>
+            <input type="hidden" name="recipient" value="testeiseuemail@gmail.com"> <!-- Pode ser qualquer endereço de email -->
+            <input type="hidden" name="redirect" value="http://seudominio"> <!-- Após o envio, o usuário será redirecionado para a página configurada aqui -->
+            <input type="hidden" name="subject" value="teste de assunto">  <!-- Assunto da mensagem -->
+            <input type="hidden" name="email" value="email@doseudominio">   <!-- Deve ser uma conta de email ativa em seu domínio -->
+            
+            <p> 
+            Nome:<br /> 
+            <input type="text" size="30" name="nome"  class="Caixa"> 
+            </p>   
+            
+            <p>
+            E-mail:<br /> 
+            <input type="text" size="30" name="replyto"  class="Caixa"> 
+            </p>   
+            
+            <p> 
+            Comentários:<br /> 
+            <input type="text" size="35" name="Comentarios" class="Caixa"> 
+            </p>   
+            
+            <p> 
+            <input type="submit" name="BTEnvia" value="Enviar" id="BTEnvia"> 
+            </form>
+      
       </article>
     </section>
     <aside>

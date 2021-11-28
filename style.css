@@ -362,6 +362,57 @@ article {
   text-align: left; 
 }
 
+
+
+
+.pagina-contato article{
+  justify-content: left;
+  margin-bottom: 12px;
+  line-height: 1.2;
+  width: 100%;
+  font-size: 1.2rem;
+}
+
+#BTEnvia{
+  background-color: var(--cor-secun-clara);
+  border: none;
+  border-radius: 10px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+
+.pagina-contato Form{
+  background-color: var(--cor-prim-clara);
+  border: none;
+  border-radius: 10px;
+  color: white;
+  padding: 15px 32px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.Caixa{
+  border: none;
+  border-radius: 10px;
+  padding: 5px 15px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.pagina-contato h2{
+  padding: 25px;
+}
+
 /**************************************************
              REGRAS DE RESPONSIVIDADE
 ***************************************************/
