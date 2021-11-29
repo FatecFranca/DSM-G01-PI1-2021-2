@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg24851"
+   width="300"
+   height="70"
+   viewBox="0 0 300 70"
+   sodipodi:docname="logo.2.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs24855" />
+  <sodipodi:namedview
+     id="namedview24853"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     showgrid="false"
+     inkscape:zoom="1.2574716"
+     inkscape:cx="230.17027"
+     inkscape:cy="7.1698118"
+     inkscape:window-width="1280"
+     inkscape:window-height="667"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g24857" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g24857">
+    <path
+       style="fill:#8c0303;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 0.3886517,-1.1824059 V 68.817592 H 300.38866 V -1.1824059 Z"
+       id="path25004" />
+    <ellipse
+       style="fill:#260e0e;fill-opacity:1;stroke:none;stroke-width:0.92728"
+       id="path27960"
+       cx="41.372589"
+       cy="34.926056"
+       rx="32.426941"
+       ry="31.882938" />
+    <g
+       id="g35096"
+       transform="matrix(0.11679539,0,0,0.1077337,-90.4965,-5.3853359)"
+       style="stroke:none">
+      <ellipse
+         style="mix-blend-mode:normal;fill:#8b0100;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path5590"
+         cx="1126.1562"
+         cy="362.52478"
+         rx="86.627403"
+         ry="85.899445" />
+      <ellipse
+         style="mix-blend-mode:normal;fill:none;fill-opacity:1;stroke:none;stroke-width:2.89619;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:2.89619, 2.89619;stroke-dashoffset:0;stroke-opacity:1"
+         id="ellipse34854-3"
+         cx="1126.1562"
+         cy="363.22073"
+         rx="76.790077"
+         ry="78.175873" />
+    </g>
+    <ellipse
+       style="fill:#dad0b0;fill-opacity:1;stroke:none;stroke-width:0.43759;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path35120"
+       ry="3.0563827"
+       rx="3.4337013"
+       cy="33.609512"
+       cx="41.174187" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3216px;line-height:1.25;font-family:Century;-inkscape-font-specification:'Century, @wght=700,wdth=75.0';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wdth' 75, 'wght' 700;fill:#d7ceac;fill-opacity:1;stroke:none;stroke-width:0.733041"
+       x="78.969055"
+       y="39.753262"
+       id="text72049"
+       transform="scale(0.96028233,1.0413604)"><tspan
+         sodipodi:role="line"
+         id="tspan72047"
+         x="78.969055"
+         y="39.753262"
+         style="fill:#d7ceac;fill-opacity:1;stroke-width:0.733041;stroke:none">VINYL WORLD</tspan></text>
+  </g>
+</svg>
