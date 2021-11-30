@@ -4,9 +4,9 @@
 <svg
    version="1.1"
    id="svg9"
-   width="963.39221"
-   height="668.26855"
-   viewBox="0 0 963.39221 668.26855"
+   width="400.39221"
+   height="234.26855"
+   viewBox="0 0 400.39221 234.26855"
    sodipodi:docname="Logo vinil completo.2.svg"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -24,15 +24,17 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="0.39157621"
-     inkscape:cx="716.33566"
-     inkscape:cy="384.34409"
-     inkscape:window-width="1280"
-     inkscape:window-height="667"
-     inkscape:window-x="-8"
+     inkscape:zoom="0.78315242"
+     inkscape:cx="369.0214"
+     inkscape:cy="227.92498"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1352"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g15" />
+     inkscape:current-layer="g15"
+     width="963.39221px"
+     height="234.26855px" />
   <g
      inkscape:groupmode="layer"
      inkscape:label="Image"
@@ -47,13 +49,13 @@
     <ellipse
        style="fill:#250c0c;fill-opacity:1;stroke:none;stroke-width:0.485127"
        id="path3825"
-       cx="635.5116"
-       cy="324.28107"
+       cx="274.15155"
+       cy="117.60376"
        rx="123.38614"
        ry="112.744" />
     <g
        id="g35096"
-       transform="matrix(0.43193705,0,0,0.36585414,146.22128,187.41561)">
+       transform="matrix(0.43193705,0,0,0.36585414,-215.13877,-19.2617)">
       <ellipse
          style="mix-blend-mode:normal;fill:#8b0100;fill-opacity:1;stroke:#b2a38e;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path5590"
@@ -74,35 +76,35 @@
        id="path35120"
        ry="10.379206"
        rx="12.69864"
-       cy="319.2554"
-       cx="633.17609" />
+       cy="112.57809"
+       cx="271.81604" />
     <path
        style="fill:#8b0000;fill-opacity:1;stroke:none;stroke-width:0.397525px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 365.88616,438.25383 -0.15723,-229.17498 266.95403,0.13316 0.62887,229.70764 z"
+       d="M 4.5261068,231.57652 4.3688768,2.40154 271.32291,2.5347 l 0.62887,229.70764 z"
        id="path24659" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.6945px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#de979a;fill-opacity:1;stroke:none;stroke-width:1.11736;image-rendering:auto"
-       x="424.40424"
-       y="279.55005"
+       x="12.01585"
+       y="98.446846"
        id="text24663"
-       transform="scale(0.87626147,1.1412119)"><tspan
+       transform="scale(0.87626146,1.1412119)"><tspan
          sodipodi:role="line"
          id="tspan24661"
-         x="424.40424"
-         y="279.55005"
+         x="12.01585"
+         y="98.446846"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.6945px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#de979a;fill-opacity:1;stroke-width:1.11736">VINYL WORLD</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5827px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#de979a;fill-opacity:1;stroke:none;stroke-width:0.314567"
-       x="341.54636"
-       y="375.77634"
+       x="16.784204"
+       y="145.80869"
        id="text24667"
        transform="scale(1.1126914,0.89872179)"><tspan
          sodipodi:role="line"
          id="tspan24665"
-         x="341.54636"
-         y="375.77634"
+         x="16.784204"
+         y="145.80869"
          style="stroke-width:0.314567">Tudo do mundo do vinyl para voce</tspan></text>
   </g>
 </svg>
